@@ -1,3 +1,4 @@
+```vhd
 -----------------------------------------------------------------------------------
 
 -- Module Name:    SerrureDigitale - Behavioral 
@@ -354,5 +355,5 @@ begin
  end if;
 end process;
 end Behavioral;
-
+```
 
